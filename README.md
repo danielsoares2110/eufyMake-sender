@@ -3,7 +3,7 @@
 A tiny native macOS app for the **AnkerMake M5 / M5C** that does exactly three things: send a
 G-code file, show the printer's camera, and show the temperatures.
 
-<img width="1021" height="985" alt="Screenshot 2026-10-19 at 6 36 19 PM" src="https://github.com/user-attachments/assets/4acdcda5-0ff8-4f42-b3a3-8bc5f5e35da1" />
+<img width="1021" height="985" alt="Screenshot 2026-10-19 at 6 36 19 PM" src="https://github.com/user-attachments/assets/7e86ed40-218e-4698-8947-81beb4daa2e7" />
 
 
 ![Platform](https://img.shields.io/badge/platform-macOS%2026%2B-blue)
