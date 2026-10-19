@@ -12,8 +12,7 @@ G-code file, show the printer's camera, and show the temperatures.
 ![Version](https://img.shields.io/badge/version-0.0.1-green)
 [![Release](https://img.shields.io/github/v/release/danielsoares2110/eufyMake-sender?include_prereleases)](https://github.com/danielsoares2110/eufyMake-sender/releases)
 
-No slicer, no cloud dashboard, no account juggling beyond the one AnkerMake login. Drag a
-`.gcode` file onto the window, hit **Send to printer**, and watch the camera while it prints.
+No slicer. Drag a`.gcode` file onto the window, hit **Send to printer**, and watch the camera while it prints.
 
 ## Features
 
